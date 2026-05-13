@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     AWS_DEFAULT_REGION: us-east-1
-    ACCOUNT_ID: 621753709886
+    ACCOUNT_ID: 068783158902
     REPOSITORY_NAME: backend
     IMAGE_TAG: latest
     CONTAINER_NAME: backend
