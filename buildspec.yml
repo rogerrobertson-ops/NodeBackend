@@ -7,7 +7,7 @@ env:
     REPOSITORY_NAME: backend
     IMAGE_TAG: latest
     CONTAINER_NAME: backend
-    ECR_REPO_URI: 621753709886.dkr.ecr.us-east-1.amazonaws.com/backend
+    ECR_REPO_URI: 621753709886.dkr.ecr.us-east-1.amazonaws.com/backendcontainer-service-wr0k9fi0
 
 phases:
   pre_build:
