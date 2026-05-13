@@ -4,7 +4,7 @@ env:
   variables:
     AWS_DEFAULT_REGION: us-east-1
     ACCOUNT_ID: 621753709886
-    REPOSITORY_NAME: backend
+    REPOSITORY_NAME: backendcontainer-service-wr0k9fi0
     IMAGE_TAG: latest
     CONTAINER_NAME: backend
     ECR_REPO_URI: 621753709886.dkr.ecr.us-east-1.amazonaws.com/backendcontainer-service-wr0k9fi0
